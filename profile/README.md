@@ -29,5 +29,5 @@ Kintsugi Core does not try to be a traditional organisation; it is a symbiosis o
 
 ### Primary Repositories
 - [**`aemacs`**](https://github.com/Kintsugi-Core/aemacs) - AI-first IDE. The flagship. MAS (Multi-Agent System).
-- [**`spacemacs-installer`**](https://github.com/Kintsugi-Core/spacemacs-installer) *(Archive)* - Respect for the roots.
+- [**`spacemacs-InstallerAndConfig`**](https://github.com/Kintsugi-Core/spacemacs-InstallerAndConfig) *(Archive)* - Respect for the roots.
 - [**`spacemacs-ai`**](https://github.com/Kintsugi-Core/spacemacs-ai) *(Archive)* - Respect for the roots.
