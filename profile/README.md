@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Hier fügst du den relativen Pfad oder Link zu unserem Logo ein -->
-  <img src="https://raw.githubusercontent.com/Kintsugi-Core/.github/main/profile/logo.jpg" alt="Kintsugi Core Logo" width="250"/>
+  <img src="./logo.jpeg" alt="Kintsugi Core Logo" width="250"/>
 
   # Kintsugi Core
   **"Architecting the Future. Repairing the Legacy."**
