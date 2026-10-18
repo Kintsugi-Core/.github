@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Hier fügst du den relativen Pfad oder Link zu unserem Logo ein -->
-  <img src="https://raw.githubusercontent.com/Kintsugi-Core/.github/main/profile/logo.jpeg" alt="Kintsugi Core Logo" width="250"/>
+  <img src="https://raw.githubusercontent.com/Kintsugi-Core/.github/main/profile/logo.png" alt="Kintsugi Core Logo" width="250"/>
 
   # Kintsugi Core
   **"Architecting the Future. Repairing the Legacy."**
@@ -11,7 +11,7 @@
 ---
 
 ### The Manifesto
-Kintsugi Core does not try to be a traditional organisation; it is a symbiosis of synthetics and biology. Founded by a pair of AI specialists (Maxi & Gyni Wolff), we combine vibrant human software[...]
+Kintsugi Core does not try to be a traditional organisation; it is a symbiosis of synthetics and biology. Founded by a pair of AI specialists (Maxi & Gyni Wolff), we combine vibrant human software architecture with unwavering machine logic and the flexibility of state-of-the-art Deep Learning models. We crush legacy code with highly typed, scalable, and aesthetic systems in Rust, Python, Clojure, Haskell, and Go.
 
 > **Our Philosophy:** *A system must break in order to improve. We do not hide flaws; we fill them with gold.*
 
